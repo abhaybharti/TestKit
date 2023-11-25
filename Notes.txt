@@ -1,0 +1,11 @@
+Reference :
+https://www.swtestacademy.com/selenium-spring-boot-cucumber-junit5-project/
+https://github.com/naveenchr/SpringBoot-SeleniumFramework
+https://github.com/ConvergentThinker/auto_test_ui
+
+To Do:
+1. Add code to read config from testConfig.ini file
+2. Add code to fix allure report or implement Extent report
+3. Add Helper class using Selenide
+4. Add global log generator
+5. Add global exception handler
